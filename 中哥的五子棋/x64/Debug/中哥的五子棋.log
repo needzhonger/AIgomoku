@@ -1,0 +1,36 @@
+﻿D:\Visual Studio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(中哥的五子棋.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  AI.cpp
+  Chess.cpp
+E:\学习\北大\大一上学期\AIgomoku\中哥的五子棋\Chess.cpp(75,53): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\学习\北大\大一上学期\AIgomoku\中哥的五子棋\Chess.cpp(75,42): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\学习\北大\大一上学期\AIgomoku\中哥的五子棋\Chess.cpp(76,52): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\学习\北大\大一上学期\AIgomoku\中哥的五子棋\Chess.cpp(76,41): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\学习\北大\大一上学期\AIgomoku\中哥的五子棋\Chess.cpp(91,53): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\学习\北大\大一上学期\AIgomoku\中哥的五子棋\Chess.cpp(91,42): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\学习\北大\大一上学期\AIgomoku\中哥的五子棋\Chess.cpp(92,52): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\学习\北大\大一上学期\AIgomoku\中哥的五子棋\Chess.cpp(92,41): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\学习\北大\大一上学期\AIgomoku\中哥的五子棋\Chess.cpp(102,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\学习\北大\大一上学期\AIgomoku\中哥的五子棋\Chess.cpp(103,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\学习\北大\大一上学期\AIgomoku\中哥的五子棋\Chess.cpp(106,18): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\学习\北大\大一上学期\AIgomoku\中哥的五子棋\Chess.cpp(107,18): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\学习\北大\大一上学期\AIgomoku\中哥的五子棋\Chess.cpp(108,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\学习\北大\大一上学期\AIgomoku\中哥的五子棋\Chess.cpp(112,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\学习\北大\大一上学期\AIgomoku\中哥的五子棋\Chess.cpp(120,13): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\学习\北大\大一上学期\AIgomoku\中哥的五子棋\Chess.cpp(128,14): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\学习\北大\大一上学期\AIgomoku\中哥的五子棋\Chess.cpp(136,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\学习\北大\大一上学期\AIgomoku\中哥的五子棋\Chess.cpp(207,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\学习\北大\大一上学期\AIgomoku\中哥的五子棋\Chess.cpp(208,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\学习\北大\大一上学期\AIgomoku\中哥的五子棋\Chess.cpp(429,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\学习\北大\大一上学期\AIgomoku\中哥的五子棋\Chess.cpp(430,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\学习\北大\大一上学期\AIgomoku\中哥的五子棋\Chess.cpp(434,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\学习\北大\大一上学期\AIgomoku\中哥的五子棋\Chess.cpp(435,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\学习\北大\大一上学期\AIgomoku\中哥的五子棋\Chess.cpp(599,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\学习\北大\大一上学期\AIgomoku\中哥的五子棋\Chess.cpp(600,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\学习\北大\大一上学期\AIgomoku\中哥的五子棋\Chess.cpp(604,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\学习\北大\大一上学期\AIgomoku\中哥的五子棋\Chess.cpp(605,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  GameManager.cpp
+  Player.cpp
+  源.cpp
+E:\学习\北大\大一上学期\AIgomoku\中哥的五子棋\源.cpp(21,38): warning C4305: “参数”: 从“double”到“float”截断
+  正在生成代码...
+  中哥的五子棋.vcxproj -> E:\学习\北大\大一上学期\AIgomoku\x64\Debug\AIgomoku.exe
